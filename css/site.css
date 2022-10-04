@@ -1,5 +1,19 @@
 
 
 p{
-  color: blue;
+  color: #A94109;
+  font-weight: bold;
+}
+
+#callout {
+  background-color: #EBB1C9;
+  padding: 20px;
+  margin: 20px;
+  border:solid 10px #A94109;
+}
+
+#ontology-of-the-banana-slug {
+  padding: 20px
+  margin: 20px
+  border:solid 15px brown;
 }
