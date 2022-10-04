@@ -13,7 +13,9 @@ p{
 }
 
 #ontology-of-the-banana-slug {
-  padding: 20px
-  margin: 20px
-  border:solid 15px brown;
+  background-image: url(dorkysammy.jpg);
+  background-color: tan;
+  padding: 20px;
+  margin: 20px;
+  border:solid 15px #A94109;
 }
