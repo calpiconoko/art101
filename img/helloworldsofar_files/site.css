@@ -1,0 +1,22 @@
+
+
+p{
+  color: #A94109;
+  font-weight: bold;
+}
+
+#callout {
+  background-color: #EBB1C9;
+  padding: 20px;
+  margin: 20px;
+  border:solid 10px #A94109;
+  text-align: center;
+}
+
+#ontology-of-the-banana-slug {
+  background-image: url(dorkysammy.jpg);
+  background-color: tan;
+  padding: 20px;
+  margin: 20px;
+  border:solid 15px #A94109;
+}
