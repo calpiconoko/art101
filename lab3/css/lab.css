@@ -1,0 +1,45 @@
+#h1 {
+  text-align: center;
+  font-family: fantasy;
+  background-color: blue;
+  position: fixed;
+}
+
+
+.body {
+  height: 20%;
+  text-align: center;
+  background-color: powderblue;
+}
+
+.split{
+
+  width: 50%;
+  position: fixed;
+  padding-top: 20px;
+}
+
+.left{
+  left: 0;
+  text-align: center;
+  background-color: thistle;
+}
+
+#pic {
+  width: 500px;
+  height: 800px;
+}
+
+.assignments {
+  height: 30%;
+  text-align: center
+  list-style-position: inside;
+  background-color: blue;
+
+}
+
+.right {
+  right: 0;
+  text-align: center;
+  background-color: LightSteelBlue;
+}
