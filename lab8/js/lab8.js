@@ -13,14 +13,14 @@ function plus(x) {
 console.log("What's 1+10?", plus(1))
 console.log("What's 20+10?, plus(20)")
 
-ray = [0, 13, 27, 19, 6, 45, 80]
+array = [0, 13, 27, 19, 6, 45, 80]
 console.log("My array!", array);
 
-var result = ray.map(plus);
+var result = array.map(plus);
 // should return [10, 23, 37, 29, 16, 55, 90]
 console.log("Increase my array by 10:", result);
 
-var result = ray.map(function(x){
+var result = array.map(function(x){
   return x * 10;
 })
 //should return [0, 130, 270, 190, 60, 450, 800]
