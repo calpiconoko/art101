@@ -9,9 +9,9 @@ function plus(x) {
     return (x + 10);
 }
 
-// test function
-console.log("What's 1+10?", plus(1))
-console.log("What's 20+10?, plus(20)")
+/// test function
+console.log("What's 1+10?", plus(1));
+console.log("What's 20+10?", plus(20));
 
 array = [0, 13, 27, 19, 6, 45, 80]
 console.log("My array!", array);
