@@ -1,7 +1,7 @@
 /*
 *
 * @file This files defines the MyClass class.
-* @author @Keiko @Kenice
+* @author @keiko @Kenice
 * @since 10.27.22
 */
 
