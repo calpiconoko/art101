@@ -2,3 +2,7 @@ label, input, button {
   display: block;
   flex-direction: column;
 }
+
+body {
+  background-image: repeating-radial-gradient(#F5CEFF, #B2D0A8, #B5A8D0 30%);
+}
