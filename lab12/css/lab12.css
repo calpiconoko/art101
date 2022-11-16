@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: #055220;
   text-align: center;
 }
 .heading {
@@ -7,7 +7,7 @@ body {
   font-size: 35px;
   color: white;
 }
-#my-button {
+#button {
   transition-duration: 0.4s;
   margin-top: 30px;
   background-color: lightblue;
@@ -15,7 +15,6 @@ body {
 }
 
 p {
-  padding: 5px;
   font-family: "Console", monospace;
   font-size: 15px;
   color: white;
